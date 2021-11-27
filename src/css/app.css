@@ -128,7 +128,7 @@
   .demo-card-square.mdl-card {
   width: 320px;
   height: 320px;
-  position: absolute;
+  position: fixed;
   }
 
   .demo-card-square > .mdl-card__title {
