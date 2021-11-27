@@ -1,0 +1,19 @@
+{
+  "name": "swapmeet",
+  "version": "1.0.0",
+  "description": "SwapMeet nos ayudará a postear nuestras prendas de segunda mano",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server -c -1."
+  },
+  "keywords": [
+    "swapmeet", 
+    "pwa",
+    "utcv"
+  ],
+  "author": "adrianavillanueva2610@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
