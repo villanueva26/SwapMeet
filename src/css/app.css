@@ -128,11 +128,10 @@
   .demo-card-square.mdl-card {
   width: 320px;
   height: 320px;
-  position: fixed;
   }
 
   .demo-card-square > .mdl-card__title {
   color: #fff;
   background:
-    url('../src/images/rosa.jpg') bottom right 15% no-repeat #46B6AC;
+    url('C:\Users\Usuario\Desktop\desempeñoEva\Estructura\src\images\rosa.jpg') bottom right 15% no-repeat #46B6AC;
   }
