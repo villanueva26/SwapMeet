@@ -124,9 +124,14 @@
     width: 320px;
     height: 320px;
   }
+
+  .demo-card-square.mdl-card {
+  width: 320px;
+  height: 320px;
+  }
+
   .demo-card-square > .mdl-card__title {
-    color: #fff;
-    background:
-      url('ESTRUCTURA/src/images/rosa.jpg') bottom right 15% no-repeat #46B6AC;
-      
+  color: #fff;
+  background:
+    url('../src/images/rosa.jpg') bottom right 15% no-repeat #46B6AC;
   }
